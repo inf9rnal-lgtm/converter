@@ -1,0 +1,5 @@
+{
+  "name": "Script Formatter",
+  "description": "A tool to quickly format script text by adding colons after character names and cleaning up paragraphs. Ideal for preparing dialogue for scripts or text-based roleplaying.",
+  "requestFramePermissions": []
+}
